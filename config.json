@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpncrypt",
+        "uuid": 29640194,
+        "checksum": "x32mo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
